@@ -49,6 +49,6 @@ Você pode visualizar o layout do projeto através dos links abaixo:
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
----
+<br><br>
 
-<p align="center">Desenvolvido com 💜 por Guilherme Capitão</p>
+<p align="center">Desenvolvido com 💜 por Pedro Augusto</p>
