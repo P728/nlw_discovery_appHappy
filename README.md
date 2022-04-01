@@ -53,3 +53,4 @@ Esse projeto está sob a licença MIT, use como preferir 💜 <br> Veja o arquiv
 #
 
 <p align="center">Desenvolvido com 💜 por Pedro Augusto</p>
+
