@@ -47,8 +47,8 @@ Você pode visualizar o layout do projeto através dos links abaixo:
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT, use como preferir 💜 <br> Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-<br><br>
+#
 
 <p align="center">Desenvolvido com 💜 por Pedro Augusto</p>
