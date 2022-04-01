@@ -38,3 +38,17 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [leaflet](https://leafletjs.com/)
 - [react-leaflet](https://react-leaflet.js.org/)
 - [Mapbox](https://mapbox.com)
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através dos links abaixo:
+
+- [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1) 
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+<p align="center">Desenvolvido com 💜 por Guilherme Capitão</p>
