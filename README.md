@@ -6,12 +6,9 @@
   Happy - Lares de acolhimento
   
   <p>
-    <a href="" target="_blank">
-      <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-    </a>
-    <a href="" target="_blank">
-      <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-    </a>
+    <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E6&labelColor=121214" alt="License">
+    <img src="https://img.shields.io/static/v1?label=docs&message=100%&color=8257E6&labelColor=121214" alt="Docs">
+    <img src="https://img.shields.io/github/stars/P728/nlw_discovery_appHappy?label=stars&message=MIT&color=8257E6&labelColor=121214" alt="Stars"> 
   </p>
   </h1>
 
