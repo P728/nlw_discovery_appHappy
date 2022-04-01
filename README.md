@@ -29,9 +29,12 @@ Este projeto foi desenvolvido durante a **[Next Level Week](https://nextlevelwee
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [React](https://reactjs.org/)
-- [styled-components](https://reactjs.org/)
-- [react-icons](https://www.sqlite.org/index.html)
-- [leaflet](https://handlebarsjs.com/)
-- [axios]()
-- [Mapbox](https://handlebarsjs.com/)
+- [styled-components](https://styled-components.com/)
+- [react-icons](https://react-icons.github.io/react-icons/)
+- [leaflet](https://leafletjs.com/)
+- [react-leaflet](https://react-leaflet.js.org/)
+- [Mapbox](https://mapbox.com)
