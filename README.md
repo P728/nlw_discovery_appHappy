@@ -8,9 +8,10 @@
     <img src="https://img.shields.io/github/stars/P728/nlw_discovery_appHappy?label=stars&message=MIT&color=8257E6&labelColor=121214" alt="Stars">
   <br>
     <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#memo-licença">Licença</a>
+    <a href="#-link-do-site">Site</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-licença">Licença</a>
   </p>
 
 ## 💻 Projeto
@@ -37,7 +38,13 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 Você pode visualizar o layout do projeto através dos links abaixo:
 
-- [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1) 
+- [Layout](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1) 
+
+## 🔖 Link do Site
+
+Acesse agora o resultado final dessa aplicação
+
+- [Site](https://p728.github.io/nlw_discovery_appHappy/) 
 
 ## 📝 Licença
 
