@@ -3,7 +3,7 @@
 </h1>
 
   <h1 align="center">
-  Happy - Lares de acolhimento
+  Aplicação que visa conectar pessoas a lares de acolhimento
   
   <p>
     <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E6&labelColor=121214" alt="License">
