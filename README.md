@@ -19,8 +19,19 @@
     <a href="#memo-licença">Licença</a>
   </p>
 
-![Screenshot](/print/print_home.png)
-
 ## 💻 Projeto
 
 Este projeto foi desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 12 a 18 de Outubro de 2020. <br> A aplicação tem como foco principal conectar pessoas a orfanatos, gerando uma comunidade de apoio e possiveis adoções. Acreditamos que a tecnologia é um grande agente de transformação, e sempre que pudermos usaremos dela para causae impacto na sociedade!
+
+![Screenshot](/print/print_home.png)
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- [React](https://reactjs.org/)
+- [styled-components](https://reactjs.org/)
+- [react-icons](https://www.sqlite.org/index.html)
+- [leaflet](https://handlebarsjs.com/)
+- [axios]()
+- [Mapbox](https://handlebarsjs.com/)
